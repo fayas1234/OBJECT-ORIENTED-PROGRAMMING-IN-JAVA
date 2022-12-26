@@ -1,6 +1,6 @@
 //Program to implement polymorphism
 import java.io.*;
-class Poly
+class Polymorphism
 {
   public static void main(String args[])
   {
