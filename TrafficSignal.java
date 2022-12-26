@@ -56,7 +56,7 @@ class Traffic extends JFrame implements ActionListener
 	}
 }
 
-class TI
+class TrafficSignal
 {
 	public static void main(String args[])
 	{
