@@ -41,7 +41,7 @@ class Manager extends Employee
   }
 
 }
-class Result
+class Inheritance
 {
   public static void main(String args[])
   {
