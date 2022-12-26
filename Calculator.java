@@ -104,7 +104,7 @@ class Calc extends JFrame implements ActionListener
 }
 
 
-class SI
+class Calculator
 {
 	public static void main(String args[])
 	{
